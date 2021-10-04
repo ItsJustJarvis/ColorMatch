@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Color Match</string>
+    <string name="new_game">New Game</string>
+    <string name="score_board">Total Wins:</string>
+    <string name="congrats">Congratulations You Won!</string>
+    <string name="target">Target</string>
+    <string name="wins"></string>
+    <string name="games">Games: </string>
+    <string name="selected">X</string>
+    <string name="unselected"></string>
+</resources>

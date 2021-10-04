@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ColorButton_Layout_Height">90dp</dimen>
+    <dimen name="ColorButton_Layout_Width">90dp</dimen>
+
+    <dimen name="WinButton_Layout_Width">75dp</dimen>
+
+    <dimen name="Button_Margin_Top">5dp</dimen>
+    <dimen name="Button_Margin_Bottom">20dp</dimen>
+    <dimen name="Button_Margin_Left">20dp</dimen>
+    <dimen name="Button_Margin_Right">5dp</dimen>
+
+    <dimen name="Button_Text_Size">20sp</dimen>
+    <dimen name="TargetButton_Text_Size">15sp</dimen>
+
+    <dimen name="ColorGrid_Layout_Margin">25dp</dimen>
+
+    <dimen name="NewGameButton_Margin_Top">40dp</dimen>
+    <dimen name="GameInfo_Margin_Top">125dp</dimen>
+
+
+
+</resources>

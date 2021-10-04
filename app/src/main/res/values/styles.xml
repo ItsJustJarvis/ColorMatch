@@ -1,0 +1,55 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ColorButton">
+        <item name="android:layout_height">@dimen/ColorButton_Layout_Height</item>
+        <item name="android:layout_width">@dimen/ColorButton_Layout_Width</item>
+    </style>
+
+    <style name="GameOptionButton">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/Button_Margin_Top</item>
+        <item name="android:layout_marginLeft">@dimen/Button_Margin_Left</item>
+        <item name="android:layout_marginRight">@dimen/Button_Margin_Right</item>
+        <item name="android:layout_marginBottom">@dimen/Button_Margin_Bottom</item>
+        <item name="android:textSize">@dimen/Button_Text_Size</item>
+    </style>
+
+    <style name="TargetColor">
+        <item name="android:layout_height">@dimen/ColorButton_Layout_Height</item>
+        <item name="android:layout_width">@dimen/ColorButton_Layout_Width</item>
+        <item name="android:layout_marginTop">@dimen/Button_Margin_Top</item>
+        <item name="android:layout_marginLeft">@dimen/Button_Margin_Left</item>
+        <item name="android:layout_marginRight">@dimen/Button_Margin_Right</item>
+        <item name="android:layout_marginBottom">@dimen/Button_Margin_Bottom</item>
+        <item name="android:textSize">@dimen/TargetButton_Text_Size</item>
+    </style>
+
+    <style name="Scoreboard">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/Button_Margin_Top</item>
+        <item name="android:layout_marginLeft">@dimen/Button_Margin_Left</item>
+        <item name="android:layout_marginRight">@dimen/Button_Margin_Right</item>
+        <item name="android:layout_marginBottom">@dimen/Button_Margin_Bottom</item>
+        <item name="android:textSize">@dimen/Button_Text_Size</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="Wins">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">@dimen/WinButton_Layout_Width</item>
+        <item name="android:layout_marginTop">@dimen/Button_Margin_Top</item>
+        <item name="android:layout_marginLeft">@dimen/Button_Margin_Left</item>
+        <item name="android:layout_marginRight">@dimen/Button_Margin_Right</item>
+        <item name="android:layout_marginBottom">@dimen/Button_Margin_Bottom</item>
+        <item name="android:textSize">@dimen/Button_Text_Size</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>
